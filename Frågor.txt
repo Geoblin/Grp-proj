@@ -1,0 +1,10 @@
+Hur kan du i din webbläsare se ifall din Javascript-kod lyckas göra en request mot API:et?
+Inspektera webbsidan och leta upp i konsollen efter en GET request, i den GET requesten kan man se
+om det står finnished loading eller failed loading.
+
+Förklara hur man kan debugga Javascript.
+
+Man kan använda sig utav kommandot "Debugger;" eller som jag oftast använder mig utav "Console.log("test");
+i olika loopar för att se om man kommer in i loopen eller inte, sen jobbar jag mig oftast bakåt.
+Börjar längst in i programmet och jobbar mig utåt. På så sätt hittar man snabbt och smidigt vart man gjort fel,
+och kan åtgärna problemet snabbt.

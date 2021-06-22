@@ -1,0 +1,19 @@
+Jag började hela prossesen genom att rita upp hur jag ville ha sidan på ett A4 papper irl,
+för att få ett hum hur den ska se ut. Jag började sendan med att designa hemsidan till att jag fått
+den och se någoluna likt ut till skissen. I detta ingick en karrusel med bilder som roterade automatiskt.
+Men jag tog bort detta efter ett tag när jag insåg att jag inte kunnde få det och se lika bra ut som 
+jag hade på min skiss, och valde att ha den mer simpel och stilren ut.
+Efter att jag fått hemsidan och se bra ut började jag på javascripts delen genom att hämta alla
+elements som jag behövde från htmlen och bygga min fetch funktion. Hade problem med att få fetch funktionen
+och fungera. Men hörde att det var själva sidan som var nere för jag fick 404 errors när jag försökte 
+kalla på arrayen. Men sebbe fixade detta väldigt snabbt på nästa lektion och slängde upp en egen på sin 
+egna hemsida.
+Jag hade lite problem med att hitta hur man ersätter \n med en . men hittade senare att det var väldigt simplet. Jag trodde att jag skulle
+behöva bygga en helt egen funktion. Sedan började jag med eventlistenern som var simplare än vad jag trodde
+med tanke på att man behövde bygga in en button disabler i den också. 
+
+I slutet ser man att det inte är så mycket kod som behövs för att bygga ut alla funktioner som behövs.
+Men jag blir rätt lätt förvirrad fortfarande när det börjar bli väldigt många variablar och funktioner 
+som man ska hålla rätt på. Så det försvinner väldigt mycket tid på att bara kolla på koden och hålla rätt
+på allt. Och även väldigt mycket debugging för att se till att rätt saker hamnar på rätt ställe när
+man kallar på dem, där av console.logs lite överallt i koden. 
